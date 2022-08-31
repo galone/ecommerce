@@ -10,7 +10,7 @@ sites:
   - name: HogarB2C
     url: https://tienda.movistar.com.ar/hogarinternet
   - name: MTV
-    url: https://tienda.movistar.com.ar/movistar
+    url: https://tienda.movistar.com.ar/movistartv
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
