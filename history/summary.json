@@ -5,17 +5,20 @@
     "icon": "https://favicons.githubusercontent.com/tienda.movistar.com.ar",
     "slug": "tienda",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2724,
-    "timeDay": 2724,
-    "timeWeek": 2724,
-    "timeMonth": 2724,
-    "timeYear": 2724,
-    "dailyMinutesDown": {}
+    "uptime": "80.05%",
+    "uptimeDay": "80.05%",
+    "uptimeWeek": "80.05%",
+    "uptimeMonth": "80.05%",
+    "uptimeYear": "80.05%",
+    "time": 2551,
+    "timeDay": 2551,
+    "timeWeek": 2551,
+    "timeMonth": 2551,
+    "timeYear": 2551,
+    "dailyMinutesDown": {
+      "2022-09-01": 114,
+      "2022-08-31": 37
+    }
   },
   {
     "name": "Simcard",
@@ -23,17 +26,20 @@
     "icon": "https://favicons.githubusercontent.com/tienda.movistar.com.ar",
     "slug": "simcard",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 487,
-    "timeWeek": 487,
-    "timeMonth": 487,
-    "timeYear": 487,
-    "dailyMinutesDown": {}
+    "uptime": "80.12%",
+    "uptimeDay": "80.12%",
+    "uptimeWeek": "80.12%",
+    "uptimeMonth": "80.12%",
+    "uptimeYear": "80.12%",
+    "time": 522,
+    "timeDay": 522,
+    "timeWeek": 522,
+    "timeMonth": 522,
+    "timeYear": 522,
+    "dailyMinutesDown": {
+      "2022-09-01": 114,
+      "2022-08-31": 36
+    }
   },
   {
     "name": "HogarB2C",
@@ -41,17 +47,20 @@
     "icon": "https://favicons.githubusercontent.com/tienda.movistar.com.ar",
     "slug": "hogar-b2-c",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 973,
-    "timeDay": 973,
-    "timeWeek": 973,
-    "timeMonth": 973,
-    "timeYear": 973,
-    "dailyMinutesDown": {}
+    "uptime": "80.19%",
+    "uptimeDay": "80.19%",
+    "uptimeWeek": "80.19%",
+    "uptimeMonth": "80.19%",
+    "uptimeYear": "80.19%",
+    "time": 924,
+    "timeDay": 924,
+    "timeWeek": 924,
+    "timeMonth": 924,
+    "timeYear": 924,
+    "dailyMinutesDown": {
+      "2022-09-01": 114,
+      "2022-08-31": 35
+    }
   },
   {
     "name": "MTV",
@@ -59,16 +68,19 @@
     "icon": "https://favicons.githubusercontent.com/tienda.movistar.com.ar",
     "slug": "mtv",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 227,
-    "timeWeek": 227,
-    "timeMonth": 227,
-    "timeYear": 227,
-    "dailyMinutesDown": {}
+    "uptime": "80.26%",
+    "uptimeDay": "80.26%",
+    "uptimeWeek": "80.26%",
+    "uptimeMonth": "80.26%",
+    "uptimeYear": "80.26%",
+    "time": 212,
+    "timeDay": 212,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212,
+    "dailyMinutesDown": {
+      "2022-09-01": 114,
+      "2022-08-31": 35
+    }
   }
 ]
