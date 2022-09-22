@@ -1,7 +1,7 @@
 url: https://tienda.movistar.com.ar/simcard
-status: up
-code: 200
-responseTime: 683
-lastUpdated: 2022-09-22T14:56:35.247Z
+status: down
+code: 503
+responseTime: 193
+lastUpdated: 2022-09-22T16:13:17.864Z
 startTime: Wed Aug 31 2022 13:20:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
